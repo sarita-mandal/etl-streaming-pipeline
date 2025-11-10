@@ -22,7 +22,7 @@ In short, it works like a real banking data platform powered by modern tools.
 
 ## Architecture  
 
-<img width="5647" height="3107" alt="Architecture" src="https://github.com/user-attachments/assets/7521ea8a-451e-46ff-9db0-71dd6ddf8181" />
+<img width="5647" height="3107" alt="Architecture" src="https://github.com/sarita-mandal/etl-streaming-pipeline/blob/main/Architecture.png?raw=true" />
 
 
 **Pipeline Flow:**
