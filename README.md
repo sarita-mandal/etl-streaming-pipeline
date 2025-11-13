@@ -1,4 +1,4 @@
-# Banking Modern Data Stack
+# ETL Data Streaming Pipeline
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![DBT](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
